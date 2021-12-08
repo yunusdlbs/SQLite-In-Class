@@ -18,3 +18,4 @@ WHERE Composer="Jimi Hendrix";
 SELECT *
 FROM invoices
 WHERE total > 10;
+-- deneme
